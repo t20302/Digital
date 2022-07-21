@@ -1,2 +1,2 @@
-# Digital
-A Tech E-commerce Landing Page
+# Blueasy
+A PSD to HTML
